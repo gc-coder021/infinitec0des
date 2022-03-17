@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @infinitec0des
 - 👀 I’m interested in C#/Java & Backenddevelopment
-- 🌱 I’m currently learning MongoDB, ExpressJS, ReactJS and NodeJS
+- 🌱 I’m currently learning: PL/SQL + PHP
 - 📫 How to reach me: Here!
 
 <!---
