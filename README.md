@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @infinitec0des
-- 👀 I’m interested in Programming with Javascript, C#, Fullstack and Pen-Testing/Reverse Engineering
+- 👀 I’m interested in C#/Java & Backenddevelopment
 - 🌱 I’m currently learning MongoDB, ExpressJS, ReactJS and NodeJS
 - 📫 How to reach me: Here!
 
