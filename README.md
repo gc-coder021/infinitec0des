@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @infinitec0des
-- 👀 I’m interested in C#/Java & Backenddevelopment
-- 🌱 I’m currently learning: PL/SQL + PHP
+- 👀 I’m interested in Backenddevelopment
+- 🌱 I’m currently learning: Java w/ Spring Boot
 - 📫 How to reach me: Here!
 
 <!---
