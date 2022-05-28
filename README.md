@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @infinitec0des
 - 👀 I’m interested in Backenddevelopment
-- 🌱 I’m currently learning: Java w/ Spring Boot
+- 🌱 I’m currently learning: Java w/ Spring Boot & ReactJS
 - 📫 How to reach me: Here!
 
 <!---
